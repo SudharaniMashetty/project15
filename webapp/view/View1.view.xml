@@ -5,6 +5,7 @@
         <content>
             <Text text="Hi"></Text>
             <Text text="Hlo"></Text>
+            <Label text="be happy"></Label>
 
         </content>
     </Page>
