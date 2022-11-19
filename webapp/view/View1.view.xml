@@ -7,8 +7,7 @@
             <Text text="Hlo"></Text>
             <Label text="be happy"></Label>
             <Label text="forever"></Label>
-
-
+            <Input text="djkdhkajdj"></Input>
         </content>
     </Page>
 </mvc:View>
