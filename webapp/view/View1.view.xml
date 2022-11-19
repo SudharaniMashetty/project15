@@ -6,6 +6,8 @@
             <Text text="Hi"></Text>
             <Text text="Hlo"></Text>
             <Label text="be happy"></Label>
+            <Label text="forever"></Label>
+
 
         </content>
     </Page>
