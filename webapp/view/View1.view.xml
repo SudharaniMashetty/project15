@@ -8,7 +8,9 @@
             <Label text="be happy"></Label>
             <Label text="forever"></Label>
             <Input text="djkdhkajdj"></Input>
-            <Label text="forever1235487"></Label>
+            <Input text="146556"></Input>
+            <Text text="merging2"></Text>
+
         </content>
     </Page>
 </mvc:View>
