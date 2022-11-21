@@ -8,6 +8,7 @@
             <Label text="be happy"></Label>
             <Label text="forever"></Label>
             <Input text="djkdhkajdj"></Input>
+            <Label text="forever1235487"></Label>
         </content>
     </Page>
 </mvc:View>
