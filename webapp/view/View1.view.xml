@@ -8,13 +8,7 @@
             <Label text="be happy"></Label>
             <Label text="forever"></Label>
             <Input text="djkdhkajdj"></Input>
-<<<<<<< HEAD
             <Label text="forever1235487"></Label>
-=======
-            <Input text="146556"></Input>
-            <Text text="merging"></Text>
-
->>>>>>> branch2
         </content>
     </Page>
 </mvc:View>
